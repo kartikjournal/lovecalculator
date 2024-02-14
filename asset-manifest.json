@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/lovecalculator/static/css/main.6d4686dc.css",
+    "main.js": "/lovecalculator/static/js/main.e7613172.js",
+    "static/js/592.9201e5d6.chunk.js": "/lovecalculator/static/js/592.9201e5d6.chunk.js",
+    "static/media/Logo.png": "/lovecalculator/static/media/Logo.38cee77afd1577e4f0aa.png",
+    "index.html": "/lovecalculator/index.html",
+    "main.6d4686dc.css.map": "/lovecalculator/static/css/main.6d4686dc.css.map",
+    "main.e7613172.js.map": "/lovecalculator/static/js/main.e7613172.js.map",
+    "592.9201e5d6.chunk.js.map": "/lovecalculator/static/js/592.9201e5d6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6d4686dc.css",
+    "static/js/main.e7613172.js"
+  ]
+}
